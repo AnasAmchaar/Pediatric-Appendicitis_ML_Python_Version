@@ -2,8 +2,8 @@
 
 Python implementation of the clinical machine learning project from Machine Learning & Pediatric Appendicitis(https://github.com/i6092467/pediatric-appendicitis-ml/tree/main). Predicts appendicitis complications using patient clinical data and ultrasound findings.
 
-📋 Overview
-This repository contains a complete ML pipeline for:
+## 📋 Overview
+### This repository contains a complete ML pipeline for:
 
 Data preparation of clinical appendicitis datasets
 
@@ -13,7 +13,8 @@ Comparative analysis of multiple machine learning models
 
 Prediction of appendicitis complications (perforation, abscess formation)
 
-🚀 Key Features
+## 🚀 Key Features
+
 Clinical Data Processing: Handles missing values, categorical encoding, and medical terminology normalization
 
 Class Imbalance Mitigation: Implements SMOTE for better minority class representation
