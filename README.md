@@ -1,6 +1,4 @@
 # Pediatric-Appendicitis_ML_Python_Version
-Python Version
-License: MIT
 
 Python implementation of the clinical machine learning project from Machine Learning & Pediatric Appendicitis(https://github.com/i6092467/pediatric-appendicitis-ml/tree/main). Predicts appendicitis complications using patient clinical data and ultrasound findings.
 
